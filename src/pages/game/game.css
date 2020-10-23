@@ -1,0 +1,58 @@
+.inputseting2{
+    outline: none;
+    width: 300px;
+    height: 50px;
+    border: 2px solid #fa6775;
+    border-radius: 20px;
+    padding: 10px;
+    color: #fa6775;
+    font-size: 25px;
+}
+
+.inputgame{
+    --background: #fa6775;
+    --padding-start: 10px;
+    color: white;
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    border-bottom: none;
+}
+
+.header2{
+    --background: #fa6775;
+    color: white;
+}
+
+.intentoscont{
+    position: relative;
+    top: -75vh;
+    left: -35vw;
+}
+.boxxon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inttitle{
+    font-size: 18px;
+    font-weight: 700;
+}
+.number{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.btna{
+    --background: #9bc01c !important;
+    position: relative;
+    width: 80%;
+    top: -110px;
+}
+.win{
+    position: relative;
+    top:-200px;
+}

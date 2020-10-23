@@ -1,0 +1,12 @@
+.iteminfo{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.puntaje{
+    font-size: 12px;
+    font-weight: 700;
+    color: rgb(88, 88, 88);
+}

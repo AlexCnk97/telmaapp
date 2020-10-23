@@ -1,0 +1,33 @@
+.inputseting{
+    outline: none;
+    width: 300px;
+    height: 50px;
+    border: 2px solid #9bc01c;
+    border-radius: 20px;
+    padding: 10px;
+    color: #9bc01c;
+    font-size: 25px;
+}
+
+.btncolor{
+    position: absolute;
+    bottom: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    --background: #fa6775;
+    --border-color: #fa6775;
+    color: white;
+}
+
+.title{
+    font-size: 20px !important;
+    color: #6a6cf3 !important;
+}
+.header{
+    --background: #9bc01c;
+}
+.titleheader{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}

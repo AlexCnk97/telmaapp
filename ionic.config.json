@@ -1,0 +1,7 @@
+{
+  "name": "gameapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
